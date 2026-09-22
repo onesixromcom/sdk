@@ -1,0 +1,15 @@
+#!/bin/sh
+#
+# petran - bash frontend for petran.exe, part of GnuPoc project
+#
+# (c) 2001 Alfred E. Heggestad
+#
+#    This program is free software; you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License version 2 as
+#    published by the Free Software Foundation.
+#
+
+PGM=$(basename "$0")
+SCRIPT_DIR=$(cd "$(dirname "$0")" && pwd)
+echo "executing $PGM.exe"
+wine $SCRIPT_DIR/$PGM.exe $*
