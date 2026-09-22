@@ -100,11 +100,11 @@
 #endif
 
 #if !defined(__WAPDEB_H__)
-#include "WapDeb.h"
+#include "wapdeb.h"
 #endif
 
 #if !defined(__LOGDEF_H__)
-#include "LogDef.h"
+#include "logdef.h"
 #endif
 
 const TInt KDefaultIndex = 1;				// The DLL index value for the first plugin in a plugin DLL

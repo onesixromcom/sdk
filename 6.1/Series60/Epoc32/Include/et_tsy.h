@@ -13,7 +13,7 @@
 //	CLineBase, CCallBase, CFaxBase, CPhoneFactoryBase and for extensions CSubSessionExtBase.
 //
 
-#include "ET_STRUC.H"
+#include "et_struc.h"
 
 typedef TUint32 TTsyReqHandle;
 const TUint KUidEtelServerModule = 0x100002A4;

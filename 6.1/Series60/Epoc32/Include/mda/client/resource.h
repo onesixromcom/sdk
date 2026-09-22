@@ -10,9 +10,9 @@
 #include <e32base.h>
 
 // Public Media Server includes
-#include <Mda\Common\Resource.h>
-#include <Mda\Client\Base.h>
-#include <Mda\Client\Port.h>
+#include <mda/common/resource.h>
+#include <mda/client/base.h>
+#include <mda/client/port.h>
 
 template <class T>
 class RMdaResourcePort : public T

@@ -24,7 +24,7 @@
 
 //  INCLUDES
 #include <e32std.h>
-#include "ConeResLoader.h"
+#include "coneresloader.h"
 
 // CLASS DECLARATION
 

@@ -31,12 +31,12 @@ class CApAccessPointItem;
 
 //INCLUDES
 	//System Include
-#include <E32Base.h>
+#include <e32base.h>
 #include <agentclient.h>
-#include <InternetConnectionManager.h>
+#include <internetconnectionmanager.h>
 #include <apengineconsts.h>
-#include <MConnection.h>
-#include <IdPair.h>
+#include <mconnection.h>
+#include <idpair.h>
 
 _LIT( KNullIpAddr, "0.0.0.0" );
 

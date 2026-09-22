@@ -9,7 +9,7 @@
 #include <e32base.h>
 #include "agmfilts.h"
 #include "agmiter.h"
-#include "AGMXSORT.H"
+#include "agmxsort.h"
 
 // ---------------------------- Local classes ----------------------------------
 

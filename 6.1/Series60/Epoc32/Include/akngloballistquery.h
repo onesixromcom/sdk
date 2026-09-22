@@ -11,7 +11,7 @@
 #ifndef __AKNGLOBALLISTQUERY_H__
 #define __AKNGLOBALLISTQUERY_H__
 
-#include <AknNotify.h>
+#include <aknnotify.h>
 #include <aknnotifystd.h>
 
 #include <bamdesca.h>

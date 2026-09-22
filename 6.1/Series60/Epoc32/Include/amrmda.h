@@ -55,9 +55,9 @@
 
 // INCLUDES
 
-#include <Mda\Common\Audio.h>
-#include <AmrCodec.h>
-#include <AmrMda.hrh>
+#include <mda/common/audio.h>
+#include <amrcodec.h>
+#include <amrmda.hrh>
 
 
 // CONSTANTS

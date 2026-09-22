@@ -18,7 +18,7 @@
 #endif
 
 #if !defined (__APMSTD_H__)
-#include <ApmStd.h>
+#include <apmstd.h>
 #endif
 
 #if !defined (__F32FILE_H__)
@@ -26,15 +26,15 @@
 #endif
 
 #if !defined(__BADESCA_H__)
-#include <BADESCA.H>			// For CDesCArray
+#include <badesca.h>			// For CDesCArray
 #endif
 
 #if !defined (__CACHEI_H__)
-#include "CacheI.h"
+#include "cachei.h"
 #endif
 
 #if !defined (__CACHECMD_H__)
-#include "CacheCmd.h"
+#include "cachecmd.h"
 #endif
 
 // The enumeration of all 

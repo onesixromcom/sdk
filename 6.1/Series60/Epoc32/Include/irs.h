@@ -6,7 +6,7 @@
 #if !defined(__IRS_H__)
 #define __IRS_H__
 
-#include <obexServerMtm.h>
+#include <obexservermtm.h>
 
 class CIrSrvMtm : public CObexSrvMtm
 	{

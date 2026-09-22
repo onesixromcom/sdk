@@ -13,8 +13,8 @@
 #include <e32base.h>
 #endif
 
-#include <Mda\Common\Controller.h>	// for Machine function codes
-#include <Mda\Server\Base.h>
+#include <mda/common/controller.h>	// for Machine function codes
+#include <mda/server/base.h>
 
 enum TMdaMachineState
 	{

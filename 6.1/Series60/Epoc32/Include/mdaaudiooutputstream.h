@@ -56,9 +56,9 @@ if the stream is stopped.
 */
 
 #include <e32base.h>
-#include <Mda\Client\Utility.h>
-#include <Mda\common\controller.h>
-#include <Mda\common\Base.h>
+#include <mda/client/utility.h>
+#include <mda/common/controller.h>
+#include <mda/common/base.h>
 
 enum TMdaStreamPlayerPanic
 	{

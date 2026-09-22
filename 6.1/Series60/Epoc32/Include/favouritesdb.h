@@ -29,10 +29,10 @@
 #include <e32base.h>
 #include <d32dbms.h>
 #include <f32file.h>
-#include <PinbLnkbase.h>
+#include <pinblnkbase.h>
 
-#include <FavouritesLimits.h>
-#include <FavouritesTable.h>
+#include <favouriteslimits.h>
+#include <favouritestable.h>
 
 // FORWARD DECLARATIONS
 
@@ -682,7 +682,7 @@ class CFavouritesDb: public CBase
         TAny* iReserved_1;
     };
 
-#include <FavouritesDb.inl>
+#include <favouritesdb.inl>
 
 #endif
             

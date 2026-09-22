@@ -30,10 +30,10 @@ Supplies interface for opening (creating) objects.
 */
 
 // Standard EPOC32 includes required by this header file
-#include <E32Base.h>
+#include <e32base.h>
 
 // Public Media Server includes
-#include <Mda\Common\Base.h>
+#include <mda/common/base.h>
 
 class CMdaObject; // Forward definition
 
@@ -141,6 +141,6 @@ protected:	// Interface for derived classes
 	IMPORT_C CMdaLibrary();
 	};
 
-#include <Mda\Server\Base.inl>
+#include <mda/server/base.inl>
 
 #endif

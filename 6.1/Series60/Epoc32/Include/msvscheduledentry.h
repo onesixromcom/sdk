@@ -15,8 +15,8 @@
 //
 /////////////////////////////////////////////////////////////////////////////
 
-#include "MsvSendErrorAction.h"
-#include "MsvEntryScheduleData.h"
+#include "msvsenderroraction.h"
+#include "msventryscheduledata.h"
 
 /////////////////////////////////////////////////////////////////////////////
 //
@@ -93,6 +93,6 @@ private:
 
 typedef CArrayPtrFlat<CMsvScheduledEntry> CMsvScheduledEntries;
 
-#include "MsvScheduledEntry.inl"
+#include "msvscheduledentry.inl"
 
 #endif

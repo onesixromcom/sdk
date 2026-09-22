@@ -23,7 +23,7 @@
 #define __CPbkSmsAddressSelect_H__
 
 //  INCLUDES
-#include "CPbkPhoneNumberSelectBase.h"
+#include "cpbkphonenumberselectbase.h"
 
 // CLASS DECLARATION
 

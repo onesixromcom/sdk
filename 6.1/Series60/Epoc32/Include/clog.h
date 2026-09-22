@@ -29,7 +29,7 @@
 #endif
 
 #if !defined(__CLOGCMD_H__)
-#include "CLogCmd.h"
+#include "clogcmd.h"
 #endif
 
 // Forward declaration of the client class

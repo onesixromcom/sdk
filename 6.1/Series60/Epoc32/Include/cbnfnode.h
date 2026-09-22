@@ -8,7 +8,7 @@
 #define __CBNFNODE_H__
 
 #include <e32base.h>
-#include "CNode.h" 
+#include "cnode.h" 
 
 
 typedef const TDesC* CBNFNodeAttributeType;

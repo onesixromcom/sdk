@@ -42,11 +42,11 @@
 #endif
 
 #if !defined (__APMSTD_H__)
-#include <ApmStd.h>
+#include <apmstd.h>
 #endif
 
-#include "PicManOb.h"
-#include "LogDef.h"
+#include "picmanob.h"
+#include "logdef.h"
 
 // Forward declaration
 class TMatchParams;			// Plugin searching structure

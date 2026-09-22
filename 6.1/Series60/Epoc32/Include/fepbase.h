@@ -7,27 +7,27 @@
 #define __FEPBASE_H__
 
 #if !defined(__E32STD_H__)
-#include <E32STD.H>
+#include <e32std.h>
 #endif
 
 #if !defined(__E32BASE_H__)
-#include <E32BASE.H>
+#include <e32base.h>
 #endif
 
 #if !defined(__F32FILE_H__)
-#include <F32FILE.H>
+#include <f32file.h>
 #endif
 
 #if !defined(__W32STD_H__)
-#include <W32STD.H>
+#include <w32std.h>
 #endif
 
 #if !defined(__COEDEF_H__)
-#include <COEDEF.H>
+#include <coedef.h>
 #endif
 
 #if !defined(__COEMAIN_H__)
-#include <COEMAIN.H>
+#include <coemain.h>
 #endif
 
 // macros to be called by keyboard-based FEPs in their CCoeControl::OfferKeyEventL-overriding function

@@ -23,7 +23,7 @@
 #define __CPbkContactEditorDlg_H__
 
 //  INCLUDES
-#include <AknForm.h>    // CAknForm
+#include <aknform.h>    // CAknForm
 #include <cntdef.h>     // TContactItemId 
 #include <eikdef.h>		// TBitFlags
 

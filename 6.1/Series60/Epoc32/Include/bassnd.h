@@ -8,7 +8,7 @@
 
 #include <e32base.h>
 #include <s32file.h>
-#include <mda\common\controller.h>
+#include <mda/common/controller.h>
 
 typedef TUid TBaSystemSoundUid;
 typedef TFileName TBaSystemSoundName;

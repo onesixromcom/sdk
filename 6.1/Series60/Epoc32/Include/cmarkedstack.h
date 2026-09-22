@@ -11,7 +11,7 @@
 
 // includes
 #include <e32base.h>
-#include <CStack.h>
+#include <cstack.h>
 
 template <class T, TBool Owner>
 class CMarkedStack : public CStack<T, Owner>
@@ -40,6 +40,6 @@ protected:
 	CMarks iMarks;
 };
 
-#include "CMarkedStack.inl"
+#include "cmarkedstack.inl"
 
 #endif // __CMARKEDSTACK_H__

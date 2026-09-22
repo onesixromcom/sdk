@@ -31,15 +31,15 @@
 #include <wapcli.h>	// defines WAP Stack client
 #include <cdblen.h> // defines Comms DB field names
 #include <protom.h> // defines protocol manager
-#include <LogDef.h> // defines client to Logging server
+#include <logdef.h> // defines client to Logging server
 
 #include <agentclient.h> //defines RGenericAgent
 
 // Local includes
 //
-#include "CQueue.h" // defines a queue class
-#include "CHTTPHandler.h" // defines HTTP Handler
-#include "CHTTPResources.h" // defines HTTP Handler
+#include "cqueue.h" // defines a queue class
+#include "chttphandler.h" // defines HTTP Handler
+#include "chttpresources.h" // defines HTTP Handler
 
 
 const TUint32 KMinimumGWTimeout=90000000; // minimum gateway timeout in microseconds (90 seconds)

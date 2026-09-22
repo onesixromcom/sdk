@@ -7,19 +7,19 @@
 #define __ETEL_H__
 
 #if !defined(__E32BASE_H__)
-#include <E32BASE.H>
+#include <e32base.h>
 #endif
 
 #if !defined (__C32COMM_H__)
-#include <C32COMM.H>
+#include <c32comm.h>
 #endif
 
 #if !defined(__D32COMM_H__)
-#include <D32COMM.H>
+#include <d32comm.h>
 #endif
 
 #if !defined(__FAXDEFN_H)
-#include <FAXDEFN.H>
+#include <faxdefn.h>
 #endif
 
 const TUint KEtelMajorVersionNumber=1;
@@ -728,5 +728,5 @@ public:
 	};
 
 
-#include "ETEL.INL"
+#include "etel.inl"
 #endif

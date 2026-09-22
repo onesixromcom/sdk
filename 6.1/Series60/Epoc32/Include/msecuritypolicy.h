@@ -17,7 +17,7 @@
 #define __MSECURITYPOLICY_H__
 
 #if !defined(__WAPCLI_H__)
-#include "WapCli.h"				// Definition of the WAP Server, client side
+#include "wapcli.h"				// Definition of the WAP Server, client side
 #endif
 
 class MSecurityPolicy

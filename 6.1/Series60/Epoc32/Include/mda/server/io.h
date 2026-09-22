@@ -9,11 +9,11 @@
 #define __MDA_SERVER_IO_H__
 
 #ifndef __MDA_SERVER_BASE_H__
-#include <Mda\Server\Base.h>
+#include <mda/server/base.h>
 #endif
 
 #ifndef __MDA_SERVER_MACHINE_H__
-#include <Mda\Server\Machine.h>
+#include <mda/server/machine.h>
 #endif
 
 class CMdaPort;				// Forward declarations

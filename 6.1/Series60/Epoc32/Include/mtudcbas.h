@@ -7,19 +7,19 @@
 #define __MTUDBAS_H__
 
 #if !defined(__MSVSTD_H__)
-#include <MSVSTD.H>
+#include <msvstd.h>
 #endif
 
 #if !defined(__MSVREG_H__)
-#include <MSVreg.H>
+#include <msvreg.h>
 #endif
 
 #if !defined(__MTCLREG_H__)
-#include <mtclreg.H>
+#include <mtclreg.h>
 #endif
 
 #if !defined(__BARSREAD_H__)
-#include <BARSREAD.H>
+#include <barsread.h>
 #endif
 
 // Forward references
@@ -127,6 +127,6 @@ private:
 	CRegisteredMtmDll&							iRegisteredMtmDll;  // Required in order to call ReleaseLibrary()
 	};
 
-#include "Mtudcbas.inl"
+#include "mtudcbas.inl"
 
 #endif // __MTUDBAS_H__

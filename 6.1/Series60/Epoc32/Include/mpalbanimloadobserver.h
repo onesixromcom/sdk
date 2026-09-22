@@ -25,7 +25,7 @@
 
 // INCLUDE FILES 
 #include <bldvariant.hrh>
-#include <MdaImageConverter.h>
+#include <mdaimageconverter.h>
 
 // CLASS DECLARATION
 class MPAlbFrameProcessor

@@ -10,8 +10,8 @@
 #include <e32base.h>
 
 // Public Media Server includes
-#include <Mda\Common\Controller.hrh> // defines
-#include <Mda\Common\Base.h>
+#include <mda/common/controller.hrh> // defines
+#include <mda/common/base.h>
 
 MDA_UID(KUidMdaControllerType) 
 MDA_UID(KUidMdaController) 

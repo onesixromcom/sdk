@@ -28,10 +28,10 @@
 #include <eikfrlbd.h>
 #include <eikfrlb.h>
 
-#include <AknGridM.h>
-#include <AknGridView.h>
+#include <akngridm.h>
+#include <akngridview.h>
 
-#include "Aknappui.h"
+#include "aknappui.h"
 
 class CAknGrid : public CEikListBox
 	{

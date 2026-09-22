@@ -24,8 +24,8 @@
 
 // INCLUDE FILES
 #include <bldvariant.hrh>
-#include <mda\client\recognizer.h>
-#include <MdaImageConverter.h>
+#include <mda/client/recognizer.h>
+#include <mdaimageconverter.h>
 
 /**
  * This class implements an image recognizer using IML CMdaRecognizer

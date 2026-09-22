@@ -7,15 +7,15 @@
 #define __CONVUTILS_H__
 
 #if !defined(__E32STD_H__)
-#include <E32STD.H>
+#include <e32std.h>
 #endif
 
 #if !defined(__E32BASE_H__)
-#include <E32BASE.H>
+#include <e32base.h>
 #endif
 
 #if !defined(__CHARCONV_H__)
-#include <CHARCONV.H>
+#include <charconv.h>
 #endif
 
 struct SCnvConversionData;

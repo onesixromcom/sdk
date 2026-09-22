@@ -7,10 +7,10 @@
 #define __MDA_CLIENT_VIDEO_H__
 
 #ifndef __MDA_COMMON_RESOURCE_H__
-#include <Mda\Common\Resource.h>
+#include <mda/common/resource.h>
 #endif
 #ifndef __MDA_COMMON_VIDEO_H__
-#include <Mda\Common\Video.h>
+#include <mda/common/video.h>
 #endif
 
 // Media Server Bitmap Device
@@ -37,7 +37,7 @@ public:
 	TInt iBitmapHandle;
 	};
 
-#include <Mda\Client\Video.inl>
+#include <mda/client/video.inl>
 
 #endif
 

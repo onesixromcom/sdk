@@ -7,7 +7,7 @@
 #define __SMTPSET_H__
 
 #if !defined (__MSVUIDS_H__)
-#include <MSVUIDS.H>
+#include <msvuids.h>
 #endif
 
 #include "miutset.h"

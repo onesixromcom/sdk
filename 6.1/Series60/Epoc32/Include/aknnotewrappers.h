@@ -14,8 +14,8 @@
 #define     __AknNoteWrappers_H__
 
 
-#include <AknNoteDialog.h> 
-#include <AknQueryDialog.h>
+#include <aknnotedialog.h> 
+#include <aknquerydialog.h>
 
 
 class TResourceReader;

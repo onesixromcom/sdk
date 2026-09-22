@@ -10,10 +10,10 @@
 #include <e32base.h>
 
 // Public Media Server includes
-#include <Mda\Common\Base.h>
-#include <Mda\Common\Port.h>
-#include <Mda\Common\Controller.h>
-#include <Mda\Common\Resource.hrh>
+#include <mda/common/base.h>
+#include <mda/common/port.h>
+#include <mda/common/controller.h>
+#include <mda/common/resource.hrh>
 
 // Uids
 MDA_UID(KUidMdaResourceManager) // Resoruce Manager Uid

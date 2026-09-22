@@ -9,9 +9,9 @@
 #define __MDA_SERVER_IOFACTORY_H__
 
 // Standard EPOC32 includes required by this header file
-#include <E32Base.h>
+#include <e32base.h>
 // Public Media Server includes
-#include <Mda\Server\Base.h>
+#include <mda/server/base.h>
 
 enum 
 	{

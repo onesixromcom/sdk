@@ -13,16 +13,16 @@
 #include <bitdev.h>
 #endif
 #ifndef __MDA_CLIENT_UTILITY_H__
-#include <Mda\Client\Utility.h>
+#include <mda/client/utility.h>
 #endif
 #ifndef __MDA_CLIENT_RESOURCE_H__
-#include <Mda\Client\Resource.h>
+#include <mda/client/resource.h>
 #endif
 #ifndef __MDA_CLIENT_VIDEO_H__
-#include <Mda\Client\Video.h>
+#include <mda/client/video.h>
 #endif
 #ifndef __MDA_COMMON_VIDEO_H__
-#include <Mda\Common\Video.h>
+#include <mda/common/video.h>
 #endif
 
 class MMdaImageUtilObserver

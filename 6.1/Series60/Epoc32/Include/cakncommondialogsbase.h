@@ -23,8 +23,8 @@
 #define __CAKNCOMMONDIALOGSBASE_H__
 
 // INCLUDES
-#include <E32BASE.H>
-#include <ConeResLoader.h>
+#include <e32base.h>
+#include <coneresloader.h>
 
 // CONSTANTS
 

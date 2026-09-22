@@ -29,7 +29,7 @@ public:
 	inline T* Last() const;		
 	};
 
-#include <CStack.inl>
+#include <cstack.inl>
 
 #pragma warning ( default : 4127 ) // conditional expression is constant
 

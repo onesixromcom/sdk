@@ -8,7 +8,7 @@
 #ifndef __FAXDEFN_H
 #define	__FAXDEFN_H
 
-#include <E32Std.H>
+#include <e32std.h>
 
 //
 // Fax class definition

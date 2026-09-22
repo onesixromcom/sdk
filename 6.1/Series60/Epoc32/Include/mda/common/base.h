@@ -15,7 +15,7 @@ Contains UID definitions, function numbers
 // Standard EPOC32 includes
 #include <e32base.h>
 // Public Media Server includes
-#include <Mda\Common\Base.hrh>
+#include <mda/common/base.hrh>
 
 #ifdef ASSERT
 #ifdef _DEBUG
@@ -327,6 +327,6 @@ inline void ObjectUtilReleaseIfExists(T*& aObject)
 		}
 	}
 
-#include <Mda\Common\Base.inl>
+#include <mda/common/base.inl>
 
 #endif

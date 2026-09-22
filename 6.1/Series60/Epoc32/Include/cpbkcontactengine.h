@@ -27,7 +27,7 @@
 #include <cntdef.h>         // TContactItemId
 #include <cntdbobs.h>       // MContactDbObserver
 #include <f32file.h>        // RFs
-#include "PbkFields.hrh"    // TPbkFieldId
+#include "pbkfields.hrh"    // TPbkFieldId
 
 
 // FORWARD DECLARATIONS

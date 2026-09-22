@@ -36,9 +36,9 @@
 
 #include <e32std.h>
 #include <mdprovob.h>
-#include <CStack.h>
-#include <CFragmentedString.h>
-#include <CBNFNode.h>
+#include <cstack.h>
+#include <cfragmentedstring.h>
+#include <cbnfnode.h>
 
 //
 // forward class declarations

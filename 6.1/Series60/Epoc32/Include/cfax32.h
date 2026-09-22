@@ -44,7 +44,7 @@
 #include "etel.h"
 #include "faxtsrc.h"
 #include "faxset.h"
-#include "FaxStd.h"
+#include "faxstd.h"
 
 /********************************************************************/
 

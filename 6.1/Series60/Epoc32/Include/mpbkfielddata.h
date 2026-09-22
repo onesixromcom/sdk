@@ -24,7 +24,7 @@
 
 //  INCLUDES
 #include <cntdef.h>         // TStorageType
-#include "PbkFields.hrh"    // TPbkFieldId
+#include "pbkfields.hrh"    // TPbkFieldId
 
 // CLASS DECLARATION
 

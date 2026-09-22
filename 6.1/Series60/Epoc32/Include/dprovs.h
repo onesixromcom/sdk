@@ -23,13 +23,13 @@
 #include <e32base.h>
 #endif
 #if !defined(__PI_H__)
-#include "Pi.h"				// CPluginBase classes
+#include "pi.h"				// CPluginBase classes
 #endif
 #if !defined(__MDPROV_H__)
-#include "MDProv.h"
+#include "mdprov.h"
 #endif
 #if !defined(__DPBASE_H__)
-#include "DPBase.h"
+#include "dpbase.h"
 #endif
 
 // define an enumeration for the index numbers of the plugins

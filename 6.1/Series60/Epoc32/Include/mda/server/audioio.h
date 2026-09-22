@@ -9,12 +9,12 @@
 #define __MDA_SERVER_AUDIOIO_H__
 
 // Public Media Server includes
-#include <Mda\Server\Environment.h>
-#include <Mda\Common\Audio.h>
-#include <Mda\Server\Io.h>
-#include <Mda\Server\Buffer.h>
-#include <Mda\Server\AudioDatatype.h>
-#include <Mda\Server\AudioRateConverter.h>
+#include <mda/server/environment.h>
+#include <mda/common/audio.h>
+#include <mda/server/io.h>
+#include <mda/server/buffer.h>
+#include <mda/server/audiodatatype.h>
+#include <mda/server/audiorateconverter.h>
 
 const TInt KBufferLatency(125000);
 const TInt KBufferLatencyDivide(8);

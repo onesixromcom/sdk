@@ -18,7 +18,7 @@
 #define __AKNFORM_H__
 
 
-#include <aknDialog.h>
+#include <akndialog.h>
 
 class CEikMenuBar ;
 

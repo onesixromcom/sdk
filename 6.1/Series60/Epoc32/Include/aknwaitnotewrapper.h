@@ -14,7 +14,7 @@
 
 // INCLUDES
 #include <e32base.h>
-#include <AknProgressDialog.h>
+#include <aknprogressdialog.h>
 
 
 // CONSTANTS

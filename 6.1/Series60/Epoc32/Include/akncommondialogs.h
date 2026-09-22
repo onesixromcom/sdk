@@ -22,7 +22,7 @@
 #ifndef __AKNCOMMONDIALOGS_H__
 #define __AKNCOMMONDIALOGS_H__
 
-#include <CAknCommonDialogsBase.h>
+#include <cakncommondialogsbase.h>
 
 // FORWARD DECLARATIONS
 class MAknMemorySelectionObserver;

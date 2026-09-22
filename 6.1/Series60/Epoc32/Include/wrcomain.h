@@ -50,7 +50,7 @@
 #include <e32base.h>
 #include <f32file.h>
 #include <e32def.h>
-#include <Conarc.h>
+#include <conarc.h>
 #include <e32std.h>
 
 #include "ollomain.h"

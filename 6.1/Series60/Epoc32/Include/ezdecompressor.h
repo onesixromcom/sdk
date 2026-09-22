@@ -8,8 +8,8 @@
 #define __EZDECOMPRESSOR_H__
 
 #include <e32base.h>
-#include <EZStream.h>
-#include <EZBufman.h>
+#include <ezstream.h>
+#include <ezbufman.h>
 
 class CEZDecompressor : public CEZZStream
 	{

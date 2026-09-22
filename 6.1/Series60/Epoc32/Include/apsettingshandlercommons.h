@@ -24,7 +24,7 @@
 #define APSETTINGS_HANDLER_COMMONS_H
 
 // INCLUDES
-#include <ApEngineConsts.h>
+#include <apengineconsts.h>
 
 #ifdef USE_SMS
     #define USE_SMS_IN_UI

@@ -6,7 +6,7 @@
 #ifndef FXUT_H_
 #define FXUT_H_
 
-#include <BADESCA.H>
+#include <badesca.h>
 #include <faxstd.h>
 #include <faxdefn.h>
 #include <faxset.h>		// TFaxSettings

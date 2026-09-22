@@ -9,11 +9,11 @@
 #include <e32base.h>
 
 // Public Media Server includes
-#include <Mda\Common\Resource.h>
-#include <Mda\Common\Audio.h>
-#include <Mda\Client\Base.h>
-#include <Mda\Client\Port.h>
-#include <Mda\Client\Controller.h>
+#include <mda/common/resource.h>
+#include <mda/common/audio.h>
+#include <mda/client/base.h>
+#include <mda/client/port.h>
+#include <mda/client/controller.h>
 
 // Audio connection
 

@@ -13,7 +13,7 @@
 #include <e32base.h>
 #include <eiklibry.h>
 #include <eikbtgpc.h>
-#include <Eikspane.h>
+#include <eikspane.h>
 #include <eikbgfty.h>
 #include <lafmain.h>
 

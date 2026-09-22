@@ -28,7 +28,7 @@
 
 // INCLUDE FILES
 #include <bldvariant.hrh>
-#include <MdaImageConverter.h>
+#include <mdaimageconverter.h>
 #include <f32file.h>
 
 

@@ -20,8 +20,8 @@
 #ifndef __MDAAUDIOTONEPLAYER_H__
 #define __MDAAUDIOTONEPLAYER_H__
 
-#include <Mda\Common\Audio.h>
-#include <Mda\Client\Controller.h>
+#include <mda/common/audio.h>
+#include <mda/client/controller.h>
 
 class CMdaServer; // Forward reference
 

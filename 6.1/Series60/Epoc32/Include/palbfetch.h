@@ -27,8 +27,8 @@
 #include <e32std.h>
 #include <e32base.h>
 #include <aknpopup.h>
-#include <ConeResLoader.h>
-#include <PAlbUtil.h>
+#include <coneresloader.h>
+#include <palbutil.h>
 
 // FORWARD DECLARATIONS
 class CPAlbImageEngine;

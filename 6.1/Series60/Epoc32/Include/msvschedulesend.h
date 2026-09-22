@@ -21,8 +21,8 @@
 //
 /////////////////////////////////////////////////////////////////////////////
 
-#include "MsvScheduledEntry.h"
-#include "MsvSchedulePackage.h"
+#include "msvscheduledentry.h"
+#include "msvschedulepackage.h"
 
 class RScheduler;
 class CMsvScheduleSettings;
@@ -158,6 +158,6 @@ protected:
 	CArrayFixFlat<TTaskInfo>* iSchTaskInfo;
 	};
 
-#include "MsvScheduleSend.inl"
+#include "msvschedulesend.inl"
 
 #endif

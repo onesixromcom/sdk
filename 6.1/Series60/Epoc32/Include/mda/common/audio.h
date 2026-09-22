@@ -10,11 +10,11 @@
 #include <e32base.h>
 
 // Public Media Server includes
-#include <Mda\Common\Base.h>
-#include <Mda\Common\Resource.h>
-#include <Mda\Common\Controller.h>
-#include <Mda\Common\Audio.hrh>
-#include <Mda\Common\AudioStream.hrh>
+#include <mda/common/base.h>
+#include <mda/common/resource.h>
+#include <mda/common/controller.h>
+#include <mda/common/audio.hrh>
+#include <mda/common/audiostream.hrh>
 
 MDA_UID(KUidMdaPrioritySettings)
 MDA_UID(KUidMdaMediaTypeAudio) // Audio data type Uid

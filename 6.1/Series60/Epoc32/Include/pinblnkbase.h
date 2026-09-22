@@ -28,7 +28,7 @@
 #include <apacmdln.h>   // for CApaCommandLine
 #include <barsread.h>   // for TResourceReader
 #include <barsc.h>      // for RResourceFile
-#include <BldVariant.hrh>
+#include <bldvariant.hrh>
 
 //  CONSTANTS
 

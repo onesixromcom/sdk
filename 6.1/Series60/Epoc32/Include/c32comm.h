@@ -212,6 +212,6 @@ private:
 	TPtr8 iFlowNotification;    ///< pointer to the flow control to be changed during notification
 	};
 
-#include <C32COMM.INL>
+#include <c32comm.inl>
 
 #endif // C32COMM_H__

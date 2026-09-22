@@ -11,7 +11,7 @@
 
 #include <sacls.h>
 #include <saclient.h>
-#include "MsvSendErrorAction.h"
+#include "msvsenderroraction.h"
 
 /////////////////////////////////////////////////////////////////////////////
 //

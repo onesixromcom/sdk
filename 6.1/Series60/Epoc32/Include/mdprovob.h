@@ -16,7 +16,7 @@
 #define __MDPROVOB_H__
 
 #if !defined(__APMSTD_H__)
-#include <ApmStd.h>
+#include <apmstd.h>
 #endif
 
 class MDataProviderObserver

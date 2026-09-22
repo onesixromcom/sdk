@@ -6,8 +6,8 @@
 #ifndef __ET_PHONE_H
 #define __ET_PHONE_H
 
-#include "ETEL.H"
-#include "ET_TSY.H"
+#include "etel.h"
+#include "et_tsy.h"
 
 //
 // The request with this handle should not be completed by TSY
@@ -387,6 +387,6 @@ protected:
 	TInt iLength;
 	};
 
-#include "ET_PHONE.INL"
+#include "et_phone.inl"
 
 #endif

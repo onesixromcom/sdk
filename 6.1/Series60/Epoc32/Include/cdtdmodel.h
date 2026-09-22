@@ -9,9 +9,9 @@
 #ifndef __CDTDMODEL_H__
 #define __CDTDMODEL_H__
 
-#include <CBNFNode.h>
-#include <CBNFParser.h>
-#include <CRuleMarkedStack.h>
+#include <cbnfnode.h>
+#include <cbnfparser.h>
+#include <crulemarkedstack.h>
 
 
 class CDTDModel : public CBNFParser

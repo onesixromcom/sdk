@@ -10,7 +10,7 @@
 #ifndef __AKNPOPUPNOTIFY_H__
 #define __AKNPOPUPNOTIFY_H__
 
-#include <AknNotify.h>
+#include <aknnotify.h>
 
 
 class CAknPopupNotify : public CAknNotifyBase

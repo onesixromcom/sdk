@@ -12,7 +12,7 @@
 #endif
 
 #if !defined (__BADESCA_H__)
-#include <BADESCA.H> // required for CBufSeg
+#include <badesca.h> // required for CBufSeg
 #endif
 
 // Oyster includes
@@ -29,11 +29,11 @@
 #endif
 
 #if !defined(__MSVUIDS_H__)
-#include <MSVUIDS.H>
+#include <msvuids.h>
 #endif
 
 #if !defined(__MSVIDS_H__)
-#include <MSVIDS.H>
+#include <msvids.h>
 #endif
 
 #include <miutatch.h>

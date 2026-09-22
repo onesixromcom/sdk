@@ -10,9 +10,9 @@
 #include <e32base.h>
 
 // Public Media Server includes
-#include <Mda\Client\Base.h>
-#include <Mda\Client\Port.h>
-#include <Mda\Common\Controller.h>
+#include <mda/client/base.h>
+#include <mda/client/port.h>
+#include <mda/common/controller.h>
 
 
 class RMdaController: public RMdaObject

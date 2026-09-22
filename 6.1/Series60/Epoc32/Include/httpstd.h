@@ -17,7 +17,7 @@
 #include <e32std.h>
 #endif
 #if !defined(__WAPENGSTD_H__)
-#include <WapEngStd.h>
+#include <wapengstd.h>
 #endif
 
 

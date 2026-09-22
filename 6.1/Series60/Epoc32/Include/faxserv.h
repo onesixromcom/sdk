@@ -22,7 +22,7 @@
 #include "etel.h"
 #endif
 
-#include "FaxStd.h"
+#include "faxstd.h"
 
 const TUint KUidDynamicFaxServer = 0x10004C88;		
 const TUint KUidUnicodeDynamicFaxServer = 0x10004C89;

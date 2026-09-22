@@ -21,7 +21,7 @@
 #define __AKNGRIDVIEW_H__
 
 #include <eiklbv.h>
-#include <AknGridM.h>
+#include <akngridm.h>
 #include <eiklabel.h>
 
 /**

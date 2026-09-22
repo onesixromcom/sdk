@@ -24,7 +24,7 @@
 #define __CPbkMmsAddressSelect_H__
 
 //  INCLUDES
-#include "CPbkAddressSelect.h"
+#include "cpbkaddressselect.h"
 
 // CLASS DECLARATION
 

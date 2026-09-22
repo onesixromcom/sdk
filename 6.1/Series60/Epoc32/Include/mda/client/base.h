@@ -33,7 +33,7 @@ A Media Server timer (works to the highest resolution available on the current h
 #include <e32base.h>
 
 // Public Media Server includes
-#include <Mda\Common\Base.h>
+#include <mda/common/base.h>
 
 enum TMdaClientBasePanic
 	{
@@ -287,6 +287,6 @@ public:
 	inline void CancelAfter(TRequestStatus& aStatus);
 	};
 
-#include <Mda\Client\Base.inl>
+#include <mda/client/base.inl>
 
 #endif

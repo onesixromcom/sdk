@@ -14,7 +14,7 @@
 #ifndef __CAknGMSStyleGrid_h
 #define __CAknGMSStyleGrid_h
 
-#include <AknGrid.h>
+#include <akngrid.h>
 #include <aknpopup.h>
 #include <aknlists.h>
 

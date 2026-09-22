@@ -10,8 +10,8 @@
 #include <e32base.h>
 
 // Public Media Server includes
-#include <Mda\Common\Port.hrh> // shared defines
-#include <Mda\Common\Base.h>
+#include <mda/common/port.hrh> // shared defines
+#include <mda/common/base.h>
 
 MDA_UID(KUidMdaSourcePort) 
 MDA_UID(KUidMdaDestinationPort) 

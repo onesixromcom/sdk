@@ -23,7 +23,7 @@
 #define __MAKNFILESELECTIONOBSERVER_H__
 
 // INCLUDES
-#include <E32STD.H>
+#include <e32std.h>
 
 // FORWARD DECLARATIONS
 class TEntry;

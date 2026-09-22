@@ -28,7 +28,7 @@
 #include <coecntrl.h>           // CCoeControl
 #include <badesca.h>            // CDesC16ArrayFlat
 #include <txtfrmat.h>           // TCharFormat
-#include <MsgEditor.hrh>        // TMsgCursorLocation
+#include <msgeditor.hrh>        // TMsgCursorLocation
 
 // DATA TYPES
 

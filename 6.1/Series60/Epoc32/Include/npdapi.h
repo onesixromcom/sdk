@@ -24,7 +24,7 @@
 // INCLUDES
 #include <e32base.h>
 #include <charconv.h>
-#include <ConeResLoader.h>
+#include <coneresloader.h>
 
 // CONSTANTS
 const TInt KNotepadPseudoKeyIdForNewNote(-1);

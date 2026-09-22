@@ -8,8 +8,8 @@
 
 #include <e32base.h>
 
-#include <Mda\Client\Base.h>
-#include <Mda\Client\Resource.h>
+#include <mda/client/base.h>
+#include <mda/client/resource.h>
 
 class CPackageHolder;
 class CMdaRecognizer : public CBase

@@ -7,7 +7,7 @@
 #define __BRDCST_H__
 
 #if !defined(__E32STD_H__)
-#include <E32STD.H>
+#include <e32std.h>
 #endif
 
 enum {EBrdGlobalDomainUid=0x10001468};

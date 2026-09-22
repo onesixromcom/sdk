@@ -34,19 +34,19 @@
 #include <e32base.h>
 #endif
 #if !defined (__PI_H__)
-#include <Pi.h>
+#include <pi.h>
 #endif
 
 // Local includes
 //
 #if !defined (__MSECURITYPOLICY_H__)
-#include "MSecurityPolicy.h"
+#include "msecuritypolicy.h"
 #endif
 
 // Wap Logging
 //
 #if !defined(_LOGDEF_H__)
-#include "LogDef.h"
+#include "logdef.h"
 #endif
 
 

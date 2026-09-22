@@ -41,28 +41,28 @@
 #include <urlhnd.h>	// defines URL Handler
 #endif
 #if !defined(__LOGDEF_H__)
-#include <LogDef.h>	// defines client for Logging server
+#include <logdef.h>	// defines client for Logging server
 #endif
 #if !defined(__HTTPSTD_H__)
-#include <HttpStd.h>	// defines standard error/return/panic codes for HTTP
+#include <httpstd.h>	// defines standard error/return/panic codes for HTTP
 #endif
 
 // Local includes
 //
 #if !defined(__CHTTPMANAGER_H__)
-#include "CHTTPManager.h" // defines HTTP Manager
+#include "chttpmanager.h" // defines HTTP Manager
 #endif
 #if !defined(__CHTTPMETHOD_H__)
-#include "CHTTPMethod.h" // defines HTTP method
+#include "chttpmethod.h" // defines HTTP method
 #endif
 #if !defined(__CHTTPRESPONSE_H__)
-#include "CHTTPResponse.h" // defines HTTP response
+#include "chttpresponse.h" // defines HTTP response
 #endif
 #if !defined(__CQUEUE_H_)
-#include "CQueue.h" // defines a queue class
+#include "cqueue.h" // defines a queue class
 #endif
 #if !defined(__CWSPTRANSADAPTER_H_)
-#include "CWspTransAdapter.h" // defines an abstract transaction
+#include "cwsptransadapter.h" // defines an abstract transaction
 							  // adapter
 #endif
 

@@ -14,7 +14,7 @@
 #endif
 
 #if !defined (__MIUTHDR_H__)
-#include "MIUTHDR.H"		
+#include "miuthdr.h"		
 #endif
 
 #if !defined (__UTF_H_)

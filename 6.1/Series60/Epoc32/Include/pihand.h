@@ -22,7 +22,7 @@
 #endif
 
 
-#include "DHand.h"		// The base CDataHandler definition
+#include "dhand.h"		// The base CDataHandler definition
 
 enum DataHandlingPluginIndex
 	{

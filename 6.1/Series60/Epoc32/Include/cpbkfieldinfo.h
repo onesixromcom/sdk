@@ -25,8 +25,8 @@
 //  INCLUDES
 #include    <e32std.h>
 #include    <cntdef.h>
-#include    "PbkFields.hrh"
-#include    "PbkIconId.hrh"
+#include    "pbkfields.hrh"
+#include    "pbkiconid.hrh"
 
 // FORWARD DECLARATIONS
 class CContentType;

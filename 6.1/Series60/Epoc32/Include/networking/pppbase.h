@@ -14,7 +14,7 @@
 #include <networking\pppsock.h>
 #include <networking\pppcomp.h>
 
-#include <ETelGprs.h> // don't link to ETelGPRS, just include for the data count structure
+#include <etelgprs.h> // don't link to ETelGPRS, just include for the data count structure
 ////////////////////////////////////////////////////////////////////////////////
 
 _LIT(PPP_INI_FILE,"ppp.ini");

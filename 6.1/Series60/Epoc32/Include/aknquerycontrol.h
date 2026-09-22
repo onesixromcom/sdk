@@ -27,7 +27,7 @@
 #include <eikedwob.h>
 
 #include <aknutils.h>
-#include <aknPanic.h>
+#include <aknpanic.h>
 
 
 //  FORWARD DECLARATIONS

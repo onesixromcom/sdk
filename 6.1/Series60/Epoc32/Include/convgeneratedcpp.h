@@ -7,11 +7,11 @@
 #define __CONVGENERATEDCPP_H__
 
 #if !defined(__E32STD_H__)
-#include <E32STD.H>
+#include <e32std.h>
 #endif
 
 #if !defined(__CONVDATA_H__)
-#include <CONVDATA.H>
+#include <convdata.h>
 #endif
 
 GLREF_D const SCnvConversionData conversionData;

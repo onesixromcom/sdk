@@ -27,8 +27,8 @@
 
 #include <etelbgsm.h>
 #include <nifvar.h>
-#include <ApEngineVer.h>
-#include <ApEngineConsts.h>
+#include <apenginever.h>
+#include <apengineconsts.h>
 
 
 // DATA TYPES

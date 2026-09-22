@@ -23,7 +23,7 @@
 #define __MAKNFILEFILTER_H__
 
 // INCLUDES
-#include <E32DEF.H> // TBool
+#include <e32def.h> // TBool
 
 // FORWARD DECLARATIONS
 class TEntry;

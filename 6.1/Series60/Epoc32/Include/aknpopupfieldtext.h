@@ -15,8 +15,8 @@
 #if !defined(__AKNPOPUPFIELDTEXT_H__)
 #define __AKNPOPUPFIELDTEXT_H__
 
-#include "AknPopupField.h"
-#include "AknQueryValueText.h"
+#include "aknpopupfield.h"
+#include "aknqueryvaluetext.h"
 
 
 class CAknPopupFieldText : public CAknPopupField

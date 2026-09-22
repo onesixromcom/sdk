@@ -8,8 +8,8 @@
 #ifndef __MDA_SERVER_AUDIOCODECS_H__
 #define __MDA_SERVER_AUDIOCODECS_H__
 
-#include <Mda\Server\Base.h>
-#include <Mda\Server\Environment.h>
+#include <mda/server/base.h>
+#include <mda/server/environment.h>
 
 // Base of Audio codecs
 

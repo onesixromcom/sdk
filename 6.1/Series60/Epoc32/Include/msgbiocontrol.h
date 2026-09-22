@@ -30,7 +30,7 @@
 #include <mmsgbiocontrol.h>     // for MMsgBioControl
 #include <badesca.h>            // for CDesCArray
 #include <aknglobalnote.h>
-#include "MsgEditor.hrh"        // for TMsgCursorLocation
+#include "msgeditor.hrh"        // for TMsgCursorLocation
 
 // CONSTANTS
 

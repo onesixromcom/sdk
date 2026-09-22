@@ -11,7 +11,7 @@
 #ifndef __AKNGLOBALPROGRESSDIALOG_H__
 #define __AKNGLOBALPROGRESSDIALOG_H__
 
-#include <AknNotify.h>
+#include <aknnotify.h>
 #include <aknnotifystd.h>
 #include <aknprogressdialog.h>
 

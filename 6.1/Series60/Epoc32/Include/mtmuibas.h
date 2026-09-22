@@ -7,7 +7,7 @@
 #define __MTMUIBAS_H__
 
 #if !defined(__MSVSTD_H__)
-#include <MSVSTD.H>
+#include <msvstd.h>
 #endif
 #if !defined(__MTCLBASE_H__)
 #include <mtclbase.h>

@@ -186,6 +186,6 @@ IMPORT_C static TInt Parse ( TDialString& aDialString ,
 								TCityDialOptions aOption) ;
 };
 
-#include<DIAL.INL>
+#include<dial.inl>
 
 #endif

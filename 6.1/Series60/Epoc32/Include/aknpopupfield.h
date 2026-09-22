@@ -19,8 +19,8 @@
 #include <eikcmbut.h>
 #include <bamdesca.h>
 
-#include <AknDesCArrayDecorator.h>
-#include <AknListBoxLayoutDecorator.h>
+#include <akndescarraydecorator.h>
+#include <aknlistboxlayoutdecorator.h>
 #include <aknnotedialog.h>
 
 class TResourceReader;

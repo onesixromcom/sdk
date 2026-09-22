@@ -8,7 +8,7 @@
 #define __CDTDNODE_H__
 
 #include <e32base.h>
-#include "CBNFNode.h" 
+#include "cbnfnode.h" 
 
 // CDTDNode
 //

@@ -24,7 +24,7 @@
 #define TEXT_RESOLVER_H
 
 #include <coemain.h>    //  CCoeEnv
-#include <TextResolver.hrh> // Resource flags 
+#include <textresolver.hrh> // Resource flags 
 
 // The size of text buffer used by the class.
 const TInt KErrorResolverMaxTextLength( 256 );

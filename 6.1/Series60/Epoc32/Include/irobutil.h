@@ -14,7 +14,7 @@
 #include <eikcfdlg.h>	// FileSaveAs dlg
 #include <eikfile.rsg>	// FileSaveAs dlg
 #include <eikfsel.h>	// Folder selector class*/
-#include <BAUTILS.H>	// NearestLanguageFile
+#include <bautils.h>	// NearestLanguageFile
 #include <basched.h>
 #include <coeutils.h>	// ConeUtils::FileExists
 #include <apparc.h>		// CApaApplication::GenerateFileName
@@ -26,10 +26,10 @@
 // Ir
 #include <obex.h>
 // MS
-#include <msvAPI.h>
-#include <msvIDs.h>
-#include <msvUIDs.h>
-#include <msvSTD.hrh>
+#include <msvapi.h>
+#include <msvids.h>
+#include <msvuids.h>
+#include <msvstd.hrh>
 
 
 

@@ -7,11 +7,11 @@
 #define __CHARCONV_H__
 
 #if !defined(__E32STD_H__)
-#include <E32STD.H>
+#include <e32std.h>
 #endif
 
 #if !defined(__E32BASE_H__)
-#include <E32BASE.H>
+#include <e32base.h>
 #endif
 
 const TInt KMaximumLengthOfReplacementForUnconvertibleUnicodeCharacters=50;

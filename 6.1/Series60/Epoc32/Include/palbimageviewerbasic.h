@@ -26,8 +26,8 @@
 // INCLUDES
 #include <bldvariant.hrh>
 #include <coecntrl.h>
-#include <MdaImageConverter.h>
-#include <MPAlbAnimLoadObserver.h>
+#include <mdaimageconverter.h>
+#include <mpalbanimloadobserver.h>
 
 // FORWARD DECLARATIONS
 class CPAlbBitmap;

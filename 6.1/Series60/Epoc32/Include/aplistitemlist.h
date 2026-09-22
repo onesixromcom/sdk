@@ -24,7 +24,7 @@
 
 //  INCLUDES
 #include <e32base.h>
-#include <ApEngineVer.h>
+#include <apenginever.h>
 
 // FORWARD DECLARATION
 

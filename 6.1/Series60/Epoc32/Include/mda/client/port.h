@@ -10,8 +10,8 @@
 #include <e32base.h>
 
 // Public Media Server includes
-#include <Mda\Client\Base.h>
-#include <Mda\Common\Port.h> // for uids
+#include <mda/client/base.h>
+#include <mda/common/port.h> // for uids
 
 class RMdaPort : public RMdaObject
 	{

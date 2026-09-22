@@ -11,7 +11,7 @@
 #ifndef __AKNGLOBALCONFIRMATIONQUERY_H__
 #define __AKNGLOBALCONFIRMATIONQUERY_H__
 
-#include <AknNotify.h>
+#include <aknnotify.h>
 #include <aknnotifystd.h>
 #include <aknquerydialog.h>
 

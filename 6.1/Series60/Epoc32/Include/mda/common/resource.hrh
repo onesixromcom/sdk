@@ -6,7 +6,7 @@
 #ifndef __MDA_COMMON_RESOURCE_HRH__ 
 #define __MDA_COMMON_RESOURCE_HRH__
 
-#include <Mda\Common\Port.hrh>
+#include <mda/common/port.hrh>
 
 enum TMdaResourceStringType
 	{

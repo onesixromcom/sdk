@@ -8,7 +8,7 @@
 #ifndef __MDA_SERVER_AUDIORATECONVERTER_H__
 #define __MDA_SERVER_AUDIORATECONVERTER_H__
 
-#include <Mda\Server\AudioFilter.h>
+#include <mda/server/audiofilter.h>
 
 // Internal to Symbian
 class CMdaAudioChannelRateConverter : public CBase

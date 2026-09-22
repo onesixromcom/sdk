@@ -29,7 +29,7 @@
 #include <aknview.h>
 #include <aknsettingpage.h>
 #include <bacntf.h>
-#include <ClkMdlObserver.h>
+#include <clkmdlobserver.h>
 
 // CONSTANTS
 const TInt KMaxItemLength=128;

@@ -25,7 +25,7 @@
 //  INCLUDES
 #include <bldvariant.hrh>
 #include <e32base.h>
-#include <PAlbImageFactory.h>
+#include <palbimagefactory.h>
 
 // FORWARD DECLARATIONS
 class CResourceLoader;

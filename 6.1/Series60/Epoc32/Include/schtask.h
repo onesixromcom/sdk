@@ -10,7 +10,7 @@
 #define __SCHTASK_H__
 
 #if !defined(__SCHINFO_H__)
-#include "SCHINFO.H"
+#include "schinfo.h"
 #endif 
 
 #include <s32file.h>

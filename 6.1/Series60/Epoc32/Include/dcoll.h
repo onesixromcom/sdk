@@ -22,10 +22,10 @@
 #endif
 
 #if !defined(__MDPROVOB_H__)
-#include "MDProvOb.h"
+#include "mdprovob.h"
 #endif
 #if !defined(__LOGDEF_H__)
-#include "LogDef.h"
+#include "logdef.h"
 #endif
 
 // Forward declaration definitions here

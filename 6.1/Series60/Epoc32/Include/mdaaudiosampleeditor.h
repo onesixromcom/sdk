@@ -24,9 +24,9 @@ Classes:
 
 #include <e32base.h>
 
-#include <Mda\Client\Resource.h>
-#include <Mda\Client\Utility.h>
-#include <Mda\Common\Audio.h>
+#include <mda/client/resource.h>
+#include <mda/client/utility.h>
+#include <mda/common/audio.h>
 
 const TInt KMdaAudioClipUtilityRepeatForever = -1;
 

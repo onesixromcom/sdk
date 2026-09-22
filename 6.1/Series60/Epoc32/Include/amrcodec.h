@@ -56,7 +56,7 @@
 
 // INCLUDES
 
-#include <E32Base.h>
+#include <e32base.h>
 
 
 // FORWARD DECLARATIONS

@@ -353,7 +353,7 @@ public:
 	IMPORT_C static void Put16(TUint8* aPtr, TUint16 aVal);
 	};
 
-#include "ES_SOCK.inl"
+#include "es_sock.inl"
 	
 #endif	//__ES_SOCK_H__
 

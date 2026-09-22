@@ -7,7 +7,7 @@
 #define __MIUTSET_H__
 
 #if !defined (__MSVUIDS_H__)
-#include <MSVUIDS.H>
+#include <msvuids.h>
 #endif
 
 #if !defined (__MIUTHDR_H__)

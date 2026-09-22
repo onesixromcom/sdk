@@ -26,8 +26,8 @@
 // INCLUDES
 #include    <bldvariant.hrh>
 
-#include <ApSettingsHandlerCommons.h>
-#include <ApEngineConsts.h>
+#include <apsettingshandlercommons.h>
+#include <apengineconsts.h>
 
 // CONSTANTS
 const   TUid    KUidApSettingsHandler = { 0x10008d3B };

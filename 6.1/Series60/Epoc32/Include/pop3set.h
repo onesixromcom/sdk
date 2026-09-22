@@ -7,7 +7,7 @@
 #define __POP3SET_H__
 
 #if !defined (__MSVUIDS_H__)
-#include <MSVUIDS.H>
+#include <msvuids.h>
 #endif
 #if !defined(__MIUTSET_H__)
 #include "miutset.h"

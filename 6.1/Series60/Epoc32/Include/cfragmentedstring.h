@@ -13,7 +13,7 @@
 
 // includes
 #include <e32base.h>
-#include <CStack.h>
+#include <cstack.h>
 
 
 //

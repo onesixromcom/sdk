@@ -34,11 +34,11 @@ Static class for getting handles to static objects
 */
 
 // Standard EPOC32 includes required by this header file
-#include <E32Base.h>
-#include <F32File.h>
+#include <e32base.h>
+#include <f32file.h>
 
 // Public Media Server includes
-#include <Mda\Server\Base.h>
+#include <mda/server/base.h>
 
 class CMdaActiveScheduler;
 // Internal to Symbian
@@ -336,6 +336,6 @@ private:
 	friend class TMdaThreadObjectList;
 	};
 
-#include <Mda\Server\Environment.inl>
+#include <mda/server/environment.inl>
 
 #endif

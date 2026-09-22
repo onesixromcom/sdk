@@ -14,7 +14,7 @@
 #define __MDPROV_H__
 
 #if !defined(__MDPROVOB_H__)
-#include "MDProvOb.h"				// Definition of the observer abstract class
+#include "mdprovob.h"				// Definition of the observer abstract class
 #endif
 
 class MDataProvider

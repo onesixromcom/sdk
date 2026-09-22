@@ -7,15 +7,15 @@
 #define __EIKEDSTS_H__
 
 #if !defined(__FEPBASE_H__)
-#include <FEPBASE.H>
+#include <fepbase.h>
 #endif
 
 #if !defined(__AKNEDSTSOBS_H__)
-#include <AKNEDSTSOBS.H>
+#include <aknedstsobs.h>
 #endif
 
 #if !defined(__UIKON_HRH__)
-#include <UIKON.HRH>
+#include <uikon.hrh>
 #endif
 
 #include <frmtlay.h>

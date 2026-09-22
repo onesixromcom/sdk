@@ -201,6 +201,6 @@ public:
 #endif
 	};
 
-#include "IR_SOCK.INL"
+#include "ir_sock.inl"
 
 #endif // __IR_SOCK_H__

@@ -11,7 +11,7 @@
 #ifndef __AKNGLOBALNOTENOTIFY_H__
 #define __AKNGLOBALNOTENOTIFY_H__
 
-#include <AknNotify.h>
+#include <aknnotify.h>
 #include <aknnotifystd.h>
 
 

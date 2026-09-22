@@ -15,7 +15,7 @@
 #ifndef __AKNUTILS_H__
 #define __AKNUTILS_H__
 
-#include <BldVariant.hrh>
+#include <bldvariant.hrh>
 #include <eiktxlbm.h>
 #include <avkon.hrh>
 #include <avkon.rsg>

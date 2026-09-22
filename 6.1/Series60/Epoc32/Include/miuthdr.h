@@ -7,27 +7,27 @@
 #define __MIUTHDR_H__
 
 #if !defined (__S32STRM_H__)
-#include <S32STRM.H>
+#include <s32strm.h>
 #endif 
 
 #if !defined (__BADESCA_H__)
-#include <BADESCA.H>
+#include <badesca.h>
 #endif
 
 #if !defined (__POP3CMDS_H__)
-#include "POP3CMDS.H"
+#include "pop3cmds.h"
 #endif
 
 #if !defined (__MSVSTD_H__)
-#include <MSVSTD.H>
+#include <msvstd.h>
 #endif
 
 #if !defined (__MSVIDS_H__)
-#include <MSVIDS.H>			// KMsvNullIndexEntryId
+#include <msvids.h>			// KMsvNullIndexEntryId
 #endif
 
 #if !defined (__MIUTSTD_HRH__)
-#include "MIUTSTD.HRH"			// KUidMsvEmailTextEntryValue
+#include "miutstd.hrh"			// KUidMsvEmailTextEntryValue
 #endif
 
 

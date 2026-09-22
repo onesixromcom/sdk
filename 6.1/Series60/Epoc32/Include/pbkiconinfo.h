@@ -24,7 +24,7 @@
 
 //  INCLUDES
 #include <e32base.h>        // CBase
-#include <PbkIconId.hrh>    // TPbkIconId
+#include <pbkiconid.hrh>    // TPbkIconId
 
 // FORWARD DECLARATIONS
 class TResourceReader;

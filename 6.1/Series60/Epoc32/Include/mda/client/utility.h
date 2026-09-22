@@ -37,8 +37,8 @@ Base class for resource object managing classes.
 #include <e32base.h>
 
 // Media Server includes
-#include <Mda\Client\Base.h>
-#include <Mda\Client\Controller.h>
+#include <mda/client/base.h>
+#include <mda/client/controller.h>
 
 enum TMdaCliUtilPanic
 	{

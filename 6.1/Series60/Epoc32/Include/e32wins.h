@@ -6,7 +6,7 @@
 #ifndef __E32WINS_H__
 #define __E32WINS_H__
 
-#include <E32STD.H>
+#include <e32std.h>
 
 enum TEmulatorFlip {EEmulatorFlipRestore,EEmulatorFlipInvert,EEmulatorFlipLeft,EEmulatorFlipRight};
 

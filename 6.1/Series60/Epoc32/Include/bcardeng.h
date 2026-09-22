@@ -26,7 +26,7 @@
 // INCLUDES
 #include <e32base.h>        // CBase
 #include <badesca.h>        // CDesCArrayFlat
-#include "PbkFields.hrh"    // TPbkFieldId
+#include "pbkfields.hrh"    // TPbkFieldId
 
 
 // CONSTANTS

@@ -48,7 +48,7 @@ Usage:
 */
 
 #include <e32base.h>
-#include <Mda\Common\Controller.h>
+#include <mda/common/controller.h>
 
 class CMdaServer;
 

@@ -25,9 +25,9 @@
 
 //  INCLUDES
 #include    <e32std.h>
-#include    "MPbkFieldData.h"
+#include    "mpbkfielddata.h"
 #include    <cntdef.h>  // TStorageType
-#include    "PbkIconId.hrh"
+#include    "pbkiconid.hrh"
 
 // These two includes are not needed here anymore
 // and might be removed in the future

@@ -27,7 +27,7 @@
 #include <e32base.h>
 // This include is not absolutely needed,  but this class is very rarely used 
 // without class CPbkFieldInfo.
-#include "CPbkFieldInfo.h"
+#include "cpbkfieldinfo.h"
 
 //  FORWARD DECLARATIONS
 class CContactItem;

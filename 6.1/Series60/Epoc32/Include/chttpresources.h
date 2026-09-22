@@ -16,7 +16,7 @@
 // System includes
 //
 #if !defined(__HTTPSTD_H__)
-#include <HttpStd.h>
+#include <httpstd.h>
 #endif
 
 

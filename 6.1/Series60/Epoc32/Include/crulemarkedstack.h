@@ -12,8 +12,8 @@
 
 // includes
 #include <e32base.h>
-#include <CMarkedStack.h>
-#include <CBNFNode.h>
+#include <cmarkedstack.h>
+#include <cbnfnode.h>
 
 #pragma warning (disable : 4127) // conditional expression is constant
 
@@ -25,7 +25,7 @@ public:
 	void MergeToMarkL(TInt aMarkType);
 	};
 
-#include <CRuleMarkedStack.inl>
+#include <crulemarkedstack.inl>
 
 #pragma warning ( default : 4127 ) // conditional expression is constant
 

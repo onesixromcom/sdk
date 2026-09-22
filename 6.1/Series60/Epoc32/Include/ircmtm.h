@@ -6,8 +6,8 @@
 #if !defined (__IRCMTM_H__)
 #define __IRCMTM_H__
 
-#include <obexClientMtm.h>
-#include <obexMtmUtil.h>
+#include <obexclientmtm.h>
+#include <obexmtmutil.h>
 	
 
 const TInt32 KUidMsgTypeIr = 0x100053A4;

@@ -7,15 +7,15 @@
 #define __OFFOP_H__
 
 #if !defined (__MSVIDS_H__)
-#include <MSVIDS.H>
+#include <msvids.h>
 #endif
 
 #if !defined (__MSVUIDS_H__)
-#include <MSVUIDS.H>
+#include <msvuids.h>
 #endif
 
 #if !defined(__MSVSTORE_H__)
-#include <MSVSTORE.H>
+#include <msvstore.h>
 #endif
 
 #include "miut_err.h"

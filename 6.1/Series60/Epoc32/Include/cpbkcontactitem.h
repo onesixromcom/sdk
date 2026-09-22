@@ -24,9 +24,9 @@
 
 //  INCLUDES
 #include <e32base.h>        // CBase, CArrayFixFlat
-#include "MPbkFieldData.h"  // MPbkFieldDataArray
-#include "PbkFields.hrh"    // TPbkFieldId
-#include "TPbkContactItemField.h"
+#include "mpbkfielddata.h"  // MPbkFieldDataArray
+#include "pbkfields.hrh"    // TPbkFieldId
+#include "tpbkcontactitemfield.h"
 
 // FORWARD DECLARATIONS
 class CPbkFieldsInfo;

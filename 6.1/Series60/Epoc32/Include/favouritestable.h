@@ -28,7 +28,7 @@
 
 #include <e32base.h>
 #include <d32dbms.h>
-#include <FavouritesItem.h>
+#include <favouritesitem.h>
 
 class MFavouritesItemData;
 

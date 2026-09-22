@@ -302,8 +302,8 @@ class CPbkViewState : public CBase
 
     - Same example as above, now using CPbkViewState:
 
-    #include <CPbkViewState.h>  // need also to add PbkView.lib into projects .mmp
-    #include <PbkUID.h> // Phonebook UIDs
+    #include <cpbkviewstate.h>  // need also to add PbkView.lib into projects .mmp
+    #include <pbkuid.h> // Phonebook UIDs
 
     CPbkViewState* pbkViewParam = CPbkViewState::NewLC();
     pbkViewParam->SetFocusedContactId(5);

@@ -11,7 +11,7 @@
 #include <e32base.h>
 #include <f32file.h>
 
-#include <EZBufman.h>
+#include <ezbufman.h>
 
 class CEZFileBufferManager : public CBase, public MEZBufferManager
 	{

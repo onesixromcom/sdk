@@ -15,7 +15,7 @@
 #if !defined(__AKNPOPUPFIELDLIST_H__)
 #define __AKNPOPUPFIELDLIST_H__
 
-#include "AknPopup.h"
+#include "aknpopup.h"
 
 class MAknQueryValue;
 class TAknDesCArrayDecorator;

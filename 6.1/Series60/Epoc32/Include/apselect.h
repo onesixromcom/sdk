@@ -26,8 +26,8 @@
 #include <bldvariant.hrh>
 
 #include <commdb.h>
-#include <ApEngineVer.h>
-#include <ApEngineConsts.h>
+#include <apenginever.h>
+#include <apengineconsts.h>
 
 #include <bldvariant.hrh>
 

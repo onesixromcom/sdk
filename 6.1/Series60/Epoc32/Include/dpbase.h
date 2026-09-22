@@ -23,13 +23,13 @@
 #endif
 
 #if !defined (__PI_H__)
-#include "PI.h"			// The CPluginBase class definition
+#include "pi.h"			// The CPluginBase class definition
 #endif
 #if !defined (__MDPROVOB_H__)
-#include "MDProvOb.h"	// The MDataProviderObserver mixin class definition
+#include "mdprovob.h"	// The MDataProviderObserver mixin class definition
 #endif
 #if !defined (__MDPROV_H__)
-#include "MDProv.h"		// The MDataProvider mixin class definition
+#include "mdprov.h"		// The MDataProvider mixin class definition
 #endif
 
 // Provide a UID constant which identifies a CDataProvider plugin.

@@ -7,7 +7,7 @@
 #if !defined(__UANSI_H__)
 #define __UANSI_H__
 
-#include "Euniw.h"
+#include "euniw.h"
 #include "e32std.h"
 
 IMPORT_C UNIW_CreateDirectory CreateDirectoryU();

@@ -39,7 +39,7 @@
 #endif
 
 #if !defined(__AKNWSEVENTOBSERVER_H__)
-#include <AknWsEventObserver.h>
+#include <aknwseventobserver.h>
 #endif
 
 #include <coemop.h>

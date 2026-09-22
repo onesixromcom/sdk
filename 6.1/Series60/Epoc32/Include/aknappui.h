@@ -11,7 +11,7 @@
 #define __AKNAPPUI_H__
 
 #include <eikappui.h>
-#include <Eikspane.h>
+#include <eikspane.h>
 #include <eikcba.h>
 #include <avkon.hrh>
 

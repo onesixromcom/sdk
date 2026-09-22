@@ -11,7 +11,7 @@
 
 #include <msvrcpt.h>
 #include <schinfo.h>
-#include "MsvSendErrorAction.h"
+#include "msvsenderroraction.h"
 
 /////////////////////////////////////////////////////////////////////////////
 //

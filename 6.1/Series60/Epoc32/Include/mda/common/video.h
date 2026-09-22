@@ -7,9 +7,9 @@
 #define __MDA_COMMON_VIDEO_H__
 
 #include <gdi.h>
-#include <Mda\Common\Controller.h>
-#include <Mda\Common\Resource.h>
-#include <Mda\Common\Video.hrh>
+#include <mda/common/controller.h>
+#include <mda/common/resource.h>
+#include <mda/common/video.hrh>
 
 // Video data type Uid
 
@@ -308,7 +308,7 @@ public:
 	inline TMdaWmfCodec();
 	};
 
-#include <Mda\Common\Video.inl>
+#include <mda/common/video.inl>
 
 #endif
 

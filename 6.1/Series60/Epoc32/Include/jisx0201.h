@@ -7,11 +7,11 @@
 #define __JISX0201_H__
 
 #if !defined(__E32STD_H__)
-#include <E32STD.H>
+#include <e32std.h>
 #endif
 
 #if !defined(__CHARCONV_H__)
-#include <CHARCONV.H>
+#include <charconv.h>
 #endif
 
 class CnvJisX0201 // only to be used by CHARCONV plug-in DLLs

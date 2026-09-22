@@ -8,6 +8,6 @@
 
 #if !defined(__aknlayout_LAG__)
 #define __aknlayout_LAG__
-#include <AknLayoutDef.h>
+#include <aknlayoutdef.h>
 
 #endif 

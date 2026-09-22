@@ -7,7 +7,7 @@
 #define __BSCGSMIPC_H__
 
 #if !defined (__ETELBGSM_H__)
-#include "ETelBgsm.h"
+#include "etelbgsm.h"
 #endif
 
 #define IPC_GSM_BSC_EXT (1000)

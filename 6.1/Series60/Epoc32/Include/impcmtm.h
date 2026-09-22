@@ -23,11 +23,11 @@
 #endif
 
 #if !defined (__IMAPSET_H__)
-#include "IMAPSET.H"
+#include "imapset.h"
 #endif
 
 #if !defined (__IMAPCMDS_H__)
-#include "IMAPCMDS.H"
+#include "imapcmds.h"
 #endif
 
 #if !defined(__OFFOP_H__)

@@ -19,16 +19,16 @@
 #include <e32base.h>
 #endif
 #if !defined(__LOGDEF_H__)
-#include <LogDef.h>
+#include <logdef.h>
 #endif
 #if !defined(__HTTPSTD_H__)
-#include <HttpStd.h>
+#include <httpstd.h>
 #endif
 
 // Local includes
 //
 #if !defined(__THTTPFIELDS_H__)
-#include "THttpFields.h"
+#include "thttpfields.h"
 #endif
 
 // Forward class declarations

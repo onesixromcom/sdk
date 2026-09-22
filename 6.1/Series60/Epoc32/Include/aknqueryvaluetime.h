@@ -17,7 +17,7 @@
 
 #include <bamdesca.h>
 #include <eikdialg.h>
-#include "AknQueryValue.h"
+#include "aknqueryvalue.h"
 
 class CAknQueryValueTimeArray;
 

@@ -11,7 +11,7 @@
 #ifndef __AKNGLOBALMSGQUERY_H__
 #define __AKNGLOBALMSGQUERY_H__
 
-#include <AknNotify.h>
+#include <aknnotify.h>
 #include <aknnotifystd.h>
 #include <aknquerydialog.h>
 

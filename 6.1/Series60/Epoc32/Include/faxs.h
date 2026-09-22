@@ -16,7 +16,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 
 #include <mtsr.h>
-#include <ScheduleBaseServerMtm.h>
+#include <schedulebaseservermtm.h>
 #include <msvipc.h>
 #include "msfxtran.h"
 #include "fxsendop.h"   

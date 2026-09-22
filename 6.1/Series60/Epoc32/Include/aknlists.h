@@ -14,7 +14,7 @@
 #include <eikclb.h>
 #include <eikfrlb.h>
 #include <eikslb.h>
-#include <AknGrid.h>
+#include <akngrid.h>
 #include <aknutils.h>
 
 #include <aknpanic.h>

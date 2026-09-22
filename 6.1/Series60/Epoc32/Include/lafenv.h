@@ -15,7 +15,7 @@
 #include <fontids.hrh>
 #include <gulfont.h>
 
-#include <BldVariant.hrh>
+#include <bldvariant.hrh>
 
 class MParser;
 class CCoeEnv;

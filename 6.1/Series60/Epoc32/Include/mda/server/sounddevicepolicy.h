@@ -9,13 +9,13 @@
 #define __MDA_SERVER_SOUNDDEVICEPOLICY_H__
 
 // Public Media Server includes
-#include <Mda\Common\Audio.h>
+#include <mda/common/audio.h>
 
-#include <Mda\Server\Base.h>
-#include <Mda\Server\Environment.h>
-#include <Mda\Server\Buffer.h>
-#include <Mda\Server\AudioIo.h>
-#include <Mda\Server\AudioCodecs.h>
+#include <mda/server/base.h>
+#include <mda/server/environment.h>
+#include <mda/server/buffer.h>
+#include <mda/server/audioio.h>
+#include <mda/server/audiocodecs.h>
 
 // Recorder code
 

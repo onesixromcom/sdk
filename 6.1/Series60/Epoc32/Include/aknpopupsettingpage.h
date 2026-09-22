@@ -23,8 +23,8 @@
 #include <aknqueryvaluetext.h>
 #include <aknlistboxsettingpage.h>
 
-#include <AknDesCArrayDecorator.h>
-#include <AknListBoxLayoutDecorator.h>
+#include <akndescarraydecorator.h>
+#include <aknlistboxlayoutdecorator.h>
 
 class CAknPopupSettingList;
 

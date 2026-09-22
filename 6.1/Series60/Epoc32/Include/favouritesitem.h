@@ -28,8 +28,8 @@
 
 #include <e32base.h>
 #include <s32strm.h>
-#include <FavouritesLimits.h>
-#include <FavouritesWapAp.h>
+#include <favouriteslimits.h>
+#include <favouriteswapap.h>
 
 // CLASS DECLARATION
 

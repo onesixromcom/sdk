@@ -22,22 +22,22 @@
 // System includes
 //
 #if !defined(__HTTPSTD_H__)
-#include "HttpStd.h"
+#include "httpstd.h"
 #endif
 
 // Local includes
 //
 #if !defined(__THTTPFIELDS_H__)
-#include "THTTPFields.h"
+#include "thttpfields.h"
 #endif
 
 // Wap Logging
 //
 #if !defined(__WAPLOG_H__)
-#include "WapLog.h"
+#include "waplog.h"
 #endif
 #if !defined(__LOGDEF_H__)
-#include "LogDef.h"
+#include "logdef.h"
 #endif
 
 

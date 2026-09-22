@@ -5,9 +5,9 @@
 
 #ifndef BTREGISTRY_H
 #define BTREGISTRY_H
-#include <BTDevice.h>
-#include <Commdb.h>
-#include <BTDefCommPort.h>
+#include <btdevice.h>
+#include <commdb.h>
+#include <btdefcommport.h>
 
 
 

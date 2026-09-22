@@ -15,7 +15,7 @@
 #include <e32base.h>
 #endif
 #if !defined (__APMSTD_H__)
-#include <ApmStd.h>
+#include <apmstd.h>
 #endif
 
 class CCacheSession;

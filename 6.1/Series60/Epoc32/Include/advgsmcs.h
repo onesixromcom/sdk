@@ -7,7 +7,7 @@
 #define __ADVGSMIPC_H__
 
 #if !defined (__ETELAGSM_H__)
-#include "ETelAgsm.h"
+#include "etelagsm.h"
 #endif
 
 #define IPC_GSM_ADV_EXT (2000)

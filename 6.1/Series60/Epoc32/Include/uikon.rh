@@ -2,7 +2,7 @@
 #define __UIKON_RH__
 
 #if !defined(__BADEF_RH__)
-#include <BADEF.RH>
+#include <badef.rh>
 #endif
 
 #if !defined(__UIKON_HRH__)

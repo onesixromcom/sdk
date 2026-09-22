@@ -8,7 +8,7 @@
 #define __ET_STRUC_H__
 
 #if !defined(__ETEL_H__)
-#include "ETEL.H"
+#include "etel.h"
 #endif
 
 struct TCallInfoIndex

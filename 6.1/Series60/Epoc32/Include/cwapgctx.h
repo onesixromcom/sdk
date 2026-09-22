@@ -29,7 +29,7 @@
 #endif
 
 #if !defined (__CWAPGCTXCMD_H__)
-#include "CWapGCtxCmd.h"
+#include "cwapgctxcmd.h"
 #endif
 
 // Forward declaration of the client class

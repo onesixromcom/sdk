@@ -27,8 +27,8 @@
 
 #include <commdb.h>
 #include <etelbgsm.h>
-#include <ApEngineVer.h>
-#include <ApEngineConsts.h>
+#include <apenginever.h>
+#include <apengineconsts.h>
 
 
 

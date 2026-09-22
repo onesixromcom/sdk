@@ -23,20 +23,20 @@
 #include <e32base.h>
 #endif
 #if !defined (__APMSTD_H__)
-#include <ApmStd.h>
+#include <apmstd.h>
 #endif
 #if !defined (__LOGDEF_H__)
-#include "LogDef.h"		// Logging macro definitions
+#include "logdef.h"		// Logging macro definitions
 #endif
 
 #if !defined (__PI_H__)
-#include "PI.h"			// The CPluginBase class definition
+#include "pi.h"			// The CPluginBase class definition
 #endif
 #if !defined (__MDPROVOB_H__)
-#include "MDProvOb.h"	// The MDataProviderObserver mixin class definition
+#include "mdprovob.h"	// The MDataProviderObserver mixin class definition
 #endif
 #if !defined (__DCOLLOB_H__)
-#include "DCollOb.h"	// The MDataCollectorObserver class definition
+#include "dcollob.h"	// The MDataCollectorObserver class definition
 #endif
 
 // Forward declaration definitions here

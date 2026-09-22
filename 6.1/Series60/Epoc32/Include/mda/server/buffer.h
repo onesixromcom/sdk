@@ -8,10 +8,10 @@
 #ifndef __MDA_SERVER_BUFFER_H__
 #define __MDA_SERVER_BUFFER_H__
 
-#include <Mda\Server\Base.h>
-#include <Mda\Server\Io.h>
-#include <Mda\Server\IoFactory.h>
-#include <Mda\Server\Machine.h>
+#include <mda/server/base.h>
+#include <mda/server/io.h>
+#include <mda/server/iofactory.h>
+#include <mda/server/machine.h>
 
 // Internal to Symbian
 enum TMdaDatatypePanic

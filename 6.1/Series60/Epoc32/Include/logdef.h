@@ -17,7 +17,7 @@
 #endif
 
 #if !defined(__ANSICOMP_H__)
-#include "ANSIComp.h"	// Enforce ANSI compliance upon Microsoft Compilers
+#include "ansicomp.h"	// Enforce ANSI compliance upon Microsoft Compilers
 #endif
 
 // This define removed for sanity and performance sake.  To enable logging in
@@ -33,7 +33,7 @@ const TInt KMaxLogEntrySize = KMaxFileName;
 
 // Logging activity is enabled
 #if !defined(__CLOG_H__)
-#include "CLog.h"
+#include "clog.h"
 #endif
 
 	// Define an error message for failed open calls

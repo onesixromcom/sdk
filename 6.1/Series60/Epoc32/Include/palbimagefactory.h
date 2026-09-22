@@ -29,8 +29,8 @@
 // INCLUDE FILES
 #include <bldvariant.hrh>
 #include <e32base.h>
-#include <MdaImageConverter.h>
-#include <PAlbImageData.h>
+#include <mdaimageconverter.h>
+#include <palbimagedata.h>
 
 // CONSTANTS
 // Default attribs for thumbnail

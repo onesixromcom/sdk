@@ -26,10 +26,10 @@
 
 // INCLUDES
 #include <coecntrl.h> 
-#include <TPbkContactItemField.h>
+#include <tpbkcontactitemfield.h>
 #include <aknutils.h>
-#include <MPbkContactDbObserver.h>
-#include <MPbkThumbnailOperationObservers.h>
+#include <mpbkcontactdbobserver.h>
+#include <mpbkthumbnailoperationobservers.h>
 
 // FORWARD DECLARATIONS
 class CAknGrid;
